@@ -6,4 +6,7 @@ public class Dog extends Animal {
         System.out.println("개처럼 먹다");
     }
 
+    public Dog(){
+        super();
+    }
 }
